@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Udeme
-#### Data Enthusiast
+
+I am from Nigeria, always ready o learn new things.
 ![Data Enthusiast](C:\Users\udeme\Desktop\n)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: Python / latex / streamlit / machinelearning 
 
