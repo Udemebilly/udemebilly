@@ -4,7 +4,8 @@ I am from Nigeria, a lover of all things data..
 ![Data Enthusiast](C:\Users\udeme\Desktop\n)
 
 
-Skills: Python / latex / streamlit / machinelearning 
+##Skills and experience: 
+Python / latex / streamlit / machinelearning 
 
 - 🔭 I’m currently working on acquiring more skills 
 - 🌱 I’m currently learning more machine learning concepts 
