@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Udeme
 
-I am from Nigeria, a lover of things data..
+I am from Nigeria, a lover of all things data..
 ![Data Enthusiast](C:\Users\udeme\Desktop\n)
 
 
