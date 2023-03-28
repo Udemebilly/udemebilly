@@ -5,7 +5,7 @@ I am from Nigeria, a lover of all things data..
 
 
 ##Skills and experience: 
-Python / latex / streamlit / machinelearning 
+Python / latex / streamlit  
 
 - 🔭 I’m currently working on acquiring more skills 
 - 🌱 I’m currently learning more machine learning concepts 
